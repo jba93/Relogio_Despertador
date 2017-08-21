@@ -7,11 +7,11 @@ Foram utilizados neste projeto os seguintes materiais:
 | 1 placa Arduino Duemilanove 
 | 1 protoboard
 | 1 buzzer para o funcionamento do som do despertador
-1 LCD para exibir a data e o horário
-2 potenciômetros para o ajuste do LCD
-1 botão para desligar o despertador
-1 resistor para o funcionamento do botão
-1 cabo USB para conectar o Arduino no computador
-Fios jumpers
+| 1 LCD para exibir a data e o horário
+| 2 potenciômetros para o ajuste do LCD
+| 1 botão para desligar o despertador
+| 1 resistor para o funcionamento do botão
+| 1 cabo USB para conectar o Arduino no computador
+| Fios jumpers |
 
 O código referente a música tema do jogo do Mario é de autoria de Núbia Souza e pode ser encontrado em: http://www.nubiasouza.com.br/musica-tema-mario-arduino-speaker.
